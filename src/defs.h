@@ -1,0 +1,2 @@
+#define MAX_PROC_NAME_LEN 4096
+#define MAX_STACK_DEPTH 4096
